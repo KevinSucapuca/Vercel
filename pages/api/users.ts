@@ -17,6 +17,11 @@ return NextResponse.json({
         id: 2,
         name: "Lucas",
     },
+    {
+        id: 3,
+        name: "Kevin",
+    },
+
     ],
 });
 };
